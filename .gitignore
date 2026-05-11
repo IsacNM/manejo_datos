@@ -1,0 +1,10 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# KDE/Dolphin
+.directory
+
+# Python
+__pycache__/
+*.pyc
+.venv/
